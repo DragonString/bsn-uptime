@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellsoft.net.ico",
     "slug": "bell-soft-network",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.67%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
     "time": 1919,
     "timeDay": 1889,
     "timeWeek": 1919,
     "timeMonth": 1919,
     "timeYear": 1919,
     "dailyMinutesDown": {
-      "2024-09-21": 2
+      "2024-09-21": 21
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/game.bellsoft.net.ico",
     "slug": "bell-game-network",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.68%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
     "time": 2033,
     "timeDay": 2553,
     "timeWeek": 2033,
     "timeMonth": 2033,
     "timeYear": 2033,
     "dailyMinutesDown": {
-      "2024-09-21": 1
+      "2024-09-21": 20
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tech.softbell.net.ico",
     "slug": "bell-s-tech-blog",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.69%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
     "time": 1867,
     "timeDay": 1655,
     "timeWeek": 1867,
     "timeMonth": 1867,
     "timeYear": 1867,
     "dailyMinutesDown": {
-      "2024-09-21": 1
+      "2024-09-21": 20
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://gitlab.bellsoft.net",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.bellsoft.net.ico",
     "slug": "bell-soft-network-git-lab",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2426,
-    "timeDay": 2714,
-    "timeWeek": 2426,
-    "timeMonth": 2426,
-    "timeYear": 2426,
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
+    "time": 2775,
+    "timeDay": 4490,
+    "timeWeek": 2775,
+    "timeMonth": 2775,
+    "timeYear": 2775,
     "dailyMinutesDown": {
-      "2024-09-21": 0
+      "2024-09-21": 19
     }
   }
 ]
