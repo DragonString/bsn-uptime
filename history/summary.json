@@ -22,9 +22,9 @@
     "url": "https://game.bellsoft.net",
     "icon": "https://icons.duckduckgo.com/ip3/game.bellsoft.net.ico",
     "slug": "bell-game-network",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,25 +33,29 @@
     "timeWeek": 2051,
     "timeMonth": 2051,
     "timeYear": 2051,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-21": 0
+    }
   },
   {
     "name": "Bell's Tech Blog",
     "url": "https://tech.softbell.net",
     "icon": "https://icons.duckduckgo.com/ip3/tech.softbell.net.ico",
     "slug": "bell-s-tech-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2000,
-    "timeDay": 2551,
-    "timeWeek": 2000,
-    "timeMonth": 2000,
-    "timeYear": 2000,
-    "dailyMinutesDown": {}
+    "time": 1864,
+    "timeDay": 1532,
+    "timeWeek": 1864,
+    "timeMonth": 1864,
+    "timeYear": 1864,
+    "dailyMinutesDown": {
+      "2024-09-21": 0
+    }
   },
   {
     "name": "Bell Soft Network GitLab",
