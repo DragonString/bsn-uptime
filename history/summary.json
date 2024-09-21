@@ -22,19 +22,19 @@
     "url": "https://game.bellsoft.net",
     "icon": "https://icons.duckduckgo.com/ip3/game.bellsoft.net.ico",
     "slug": "bell-game-network",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2051,
-    "timeDay": 3260,
-    "timeWeek": 2051,
-    "timeMonth": 2051,
-    "timeYear": 2051,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 2033,
+    "timeDay": 2553,
+    "timeWeek": 2033,
+    "timeMonth": 2033,
+    "timeYear": 2033,
     "dailyMinutesDown": {
-      "2024-09-21": 0
+      "2024-09-21": 6
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://tech.softbell.net",
     "icon": "https://icons.duckduckgo.com/ip3/tech.softbell.net.ico",
     "slug": "bell-s-tech-blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1864,
-    "timeDay": 1532,
-    "timeWeek": 1864,
-    "timeMonth": 1864,
-    "timeYear": 1864,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 1867,
+    "timeDay": 1655,
+    "timeWeek": 1867,
+    "timeMonth": 1867,
+    "timeYear": 1867,
     "dailyMinutesDown": {
-      "2024-09-21": 0
+      "2024-09-21": 6
     }
   },
   {
