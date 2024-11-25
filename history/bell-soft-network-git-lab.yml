@@ -1,7 +1,7 @@
 url: https://gitlab.bellsoft.net
 status: down
-code: 500
-responseTime: 443
-lastUpdated: 2024-11-25T09:40:35.667Z
+code: 502
+responseTime: 664
+lastUpdated: 2024-11-25T23:19:39.636Z
 startTime: 2024-09-17T09:10:49.565Z
 generator: Upptime <https://github.com/upptime/upptime>
