@@ -1,7 +1,7 @@
 url: https://www.bellsoft.net
-status: up
-code: 200
-responseTime: 2088
-lastUpdated: 2025-07-06T23:20:27.025Z
+status: down
+code: 503
+responseTime: 617
+lastUpdated: 2025-07-07T14:57:07.315Z
 startTime: 2024-09-17T09:10:42.824Z
 generator: Upptime <https://github.com/upptime/upptime>
