@@ -10,11 +10,11 @@
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.66%",
-    "time": 2350,
-    "timeDay": 2512,
-    "timeWeek": 2435,
-    "timeMonth": 2402,
-    "timeYear": 2381,
+    "time": 2351,
+    "timeDay": 2916,
+    "timeWeek": 2517,
+    "timeMonth": 2404,
+    "timeYear": 2378,
     "dailyMinutesDown": {
       "2025-12-02": 15,
       "2025-11-24": 20,
@@ -43,15 +43,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/game.bellsoft.net.ico",
     "slug": "bell-game-network",
     "status": "up",
-    "uptime": "98.46%",
+    "uptime": "98.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.21%",
-    "time": 2527,
-    "timeDay": 2057,
-    "timeWeek": 2540,
-    "timeMonth": 2525,
+    "time": 2531,
+    "timeDay": 4410,
+    "timeWeek": 2569,
+    "timeMonth": 2546,
     "timeYear": 2473,
     "dailyMinutesDown": {
       "2025-11-24": 20,
@@ -79,8 +79,7 @@
       "2025-02-13": 293,
       "2024-12-23": 16,
       "2024-12-14": 194,
-      "2024-12-07": 461,
-      "2024-12-06": 221
+      "2024-12-07": 461
     }
   },
   {
@@ -95,10 +94,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.55%",
     "time": 2437,
-    "timeDay": 2264,
-    "timeWeek": 2481,
-    "timeMonth": 2465,
-    "timeYear": 2376,
+    "timeDay": 2606,
+    "timeWeek": 2514,
+    "timeMonth": 2471,
+    "timeYear": 2368,
     "dailyMinutesDown": {
       "2025-11-24": 19,
       "2025-11-04": 21,
@@ -117,8 +116,7 @@
       "2025-02-13": 293,
       "2024-12-23": 16,
       "2024-12-14": 193,
-      "2024-12-07": 454,
-      "2024-12-06": 221
+      "2024-12-07": 454
     }
   },
   {
@@ -133,10 +131,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.66%",
     "time": 2004,
-    "timeDay": 1709,
-    "timeWeek": 1723,
+    "timeDay": 2070,
+    "timeWeek": 1764,
     "timeMonth": 1778,
-    "timeYear": 1937,
+    "timeYear": 1936,
     "dailyMinutesDown": {
       "2025-11-24": 19,
       "2025-11-04": 20,
