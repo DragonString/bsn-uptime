@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "99.32%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.57%",
+    "uptimeWeek": "97.77%",
     "uptimeMonth": "98.17%",
     "uptimeYear": "99.22%",
-    "time": 2506,
-    "timeDay": 3288,
-    "timeWeek": 3155,
-    "timeMonth": 3125,
-    "timeYear": 2506,
+    "time": 2507,
+    "timeDay": 3243,
+    "timeWeek": 3164,
+    "timeMonth": 3142,
+    "timeYear": 2509,
     "dailyMinutesDown": {
       "2026-02-16": 21,
       "2026-02-14": 235,
@@ -42,8 +42,7 @@
       "2025-05-15": 388,
       "2025-04-09": 24,
       "2025-04-05": 78,
-      "2025-02-22": 169,
-      "2025-02-21": 66
+      "2025-02-22": 169
     }
   },
   {
@@ -54,14 +53,14 @@
     "status": "up",
     "uptime": "98.30%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.58%",
+    "uptimeWeek": "97.77%",
     "uptimeMonth": "98.17%",
     "uptimeYear": "97.90%",
-    "time": 2586,
-    "timeDay": 5408,
+    "time": 2587,
+    "timeDay": 3247,
     "timeWeek": 3242,
-    "timeMonth": 3014,
-    "timeYear": 2553,
+    "timeMonth": 3018,
+    "timeYear": 2555,
     "dailyMinutesDown": {
       "2026-02-16": 21,
       "2026-02-14": 235,
@@ -95,8 +94,7 @@
       "2025-05-15": 388,
       "2025-04-09": 24,
       "2025-04-05": 78,
-      "2025-02-22": 169,
-      "2025-02-21": 66
+      "2025-02-22": 169
     }
   },
   {
@@ -107,14 +105,14 @@
     "status": "up",
     "uptime": "99.24%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.59%",
+    "uptimeWeek": "97.77%",
     "uptimeMonth": "98.20%",
     "uptimeYear": "99.24%",
-    "time": 2530,
-    "timeDay": 4197,
-    "timeWeek": 3565,
-    "timeMonth": 3026,
-    "timeYear": 2493,
+    "time": 2532,
+    "timeDay": 3391,
+    "timeWeek": 3547,
+    "timeMonth": 3057,
+    "timeYear": 2496,
     "dailyMinutesDown": {
       "2026-02-16": 20,
       "2026-02-14": 235,
@@ -140,8 +138,7 @@
       "2025-05-15": 387,
       "2025-04-09": 23,
       "2025-04-05": 60,
-      "2025-02-22": 169,
-      "2025-02-21": 66
+      "2025-02-22": 169
     }
   },
   {
@@ -150,16 +147,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.bellsoft.net.ico",
     "slug": "bell-soft-network-git-lab",
     "status": "up",
-    "uptime": "98.69%",
+    "uptime": "98.70%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.59%",
+    "uptimeWeek": "97.78%",
     "uptimeMonth": "99.17%",
     "uptimeYear": "99.31%",
-    "time": 2029,
-    "timeDay": 2179,
-    "timeWeek": 2578,
-    "timeMonth": 2415,
-    "timeYear": 1982,
+    "time": 2033,
+    "timeDay": 4037,
+    "timeWeek": 2724,
+    "timeMonth": 2479,
+    "timeYear": 1988,
     "dailyMinutesDown": {
       "2026-02-16": 20,
       "2026-02-14": 235,
@@ -182,8 +179,7 @@
       "2025-05-15": 387,
       "2025-04-09": 23,
       "2025-04-05": 177,
-      "2025-02-22": 128,
-      "2025-02-21": 66
+      "2025-02-22": 128
     }
   }
 ]
