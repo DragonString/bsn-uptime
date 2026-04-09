@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "99.35%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.52%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.24%",
-    "time": 2559,
-    "timeDay": 2151,
-    "timeWeek": 2192,
-    "timeMonth": 3009,
-    "timeYear": 2608,
+    "time": 2560,
+    "timeDay": 2244,
+    "timeWeek": 2172,
+    "timeMonth": 2938,
+    "timeYear": 2607,
     "dailyMinutesDown": {
       "2026-04-02": 48,
       "2026-03-27": 89,
@@ -44,8 +44,7 @@
       "2025-06-28": 20,
       "2025-06-02": 27,
       "2025-05-16": 52,
-      "2025-05-15": 388,
-      "2025-04-09": 24
+      "2025-05-15": 388
     }
   },
   {
@@ -54,15 +53,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/game.bellsoft.net.ico",
     "slug": "bell-game-network",
     "status": "up",
-    "uptime": "98.41%",
+    "uptime": "98.42%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.52%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "97.91%",
     "time": 2688,
-    "timeDay": 2004,
-    "timeWeek": 2392,
-    "timeMonth": 3130,
+    "timeDay": 2335,
+    "timeWeek": 2393,
+    "timeMonth": 3050,
     "timeYear": 2679,
     "dailyMinutesDown": {
       "2026-04-02": 48,
@@ -99,8 +98,7 @@
       "2025-06-02": 27,
       "2025-05-24": 16,
       "2025-05-16": 52,
-      "2025-05-15": 388,
-      "2025-04-09": 24
+      "2025-05-15": 388
     }
   },
   {
@@ -111,14 +109,14 @@
     "status": "up",
     "uptime": "99.28%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.53%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.25%",
-    "time": 2654,
-    "timeDay": 2231,
-    "timeWeek": 2439,
-    "timeMonth": 3264,
-    "timeYear": 2653,
+    "time": 2657,
+    "timeDay": 3989,
+    "timeWeek": 2661,
+    "timeMonth": 3196,
+    "timeYear": 2657,
     "dailyMinutesDown": {
       "2026-04-02": 48,
       "2026-03-27": 89,
@@ -146,8 +144,7 @@
       "2025-06-28": 20,
       "2025-06-02": 27,
       "2025-05-16": 52,
-      "2025-05-15": 387,
-      "2025-04-09": 23
+      "2025-05-15": 387
     }
   },
   {
@@ -158,14 +155,14 @@
     "status": "up",
     "uptime": "98.74%",
     "uptimeDay": "79.63%",
-    "uptimeWeek": "96.62%",
+    "uptimeWeek": "96.90%",
     "uptimeMonth": "98.95%",
     "uptimeYear": "99.29%",
-    "time": 2096,
-    "timeDay": 1423,
-    "timeWeek": 2126,
-    "timeMonth": 3094,
-    "timeYear": 2152,
+    "time": 2095,
+    "timeDay": 1461,
+    "timeWeek": 1851,
+    "timeMonth": 3050,
+    "timeYear": 2150,
     "dailyMinutesDown": {
       "2026-04-08": 293,
       "2026-04-02": 47,
@@ -190,8 +187,7 @@
       "2025-07-07": 35,
       "2025-06-02": 27,
       "2025-05-16": 52,
-      "2025-05-15": 387,
-      "2025-04-09": 23
+      "2025-05-15": 387
     }
   }
 ]
