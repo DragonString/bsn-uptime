@@ -4,13 +4,13 @@
     "url": "https://www.bellsoft.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.bellsoft.net.ico",
     "slug": "bell-soft-network",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.44%",
-    "uptimeMonth": "96.28%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "96.25%",
     "uptimeYear": "98.95%",
-    "time": 2627,
+    "time": 2628,
     "timeDay": 2640,
     "timeWeek": 2293,
     "timeMonth": 2769,
@@ -53,7 +53,8 @@
       "2026-08-07": 199,
       "2026-08-06": 1258,
       "2026-08-14": 15,
-      "2026-08-25": 158
+      "2026-08-25": 158,
+      "2026-08-27": 15
     }
   },
   {
@@ -61,11 +62,11 @@
     "url": "https://game.bellsoft.net",
     "icon": "https://icons.duckduckgo.com/ip3/game.bellsoft.net.ico",
     "slug": "bell-game-network",
-    "status": "up",
+    "status": "down",
     "uptime": "94.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.44%",
-    "uptimeMonth": "96.33%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "96.30%",
     "uptimeYear": "91.03%",
     "time": 2644,
     "timeDay": 2524,
@@ -133,7 +134,8 @@
       "2026-07-23": 26,
       "2026-08-07": 199,
       "2026-08-06": 1253,
-      "2026-08-25": 157
+      "2026-08-25": 157,
+      "2026-08-27": 10
     }
   },
   {
@@ -141,13 +143,13 @@
     "url": "https://tech.softbell.net",
     "icon": "https://icons.duckduckgo.com/ip3/tech.softbell.net.ico",
     "slug": "bell-s-tech-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "95.12%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.44%",
-    "uptimeMonth": "96.34%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "96.33%",
     "uptimeYear": "91.03%",
-    "time": 2656,
+    "time": 2657,
     "timeDay": 2546,
     "timeWeek": 2145,
     "timeMonth": 2526,
@@ -214,7 +216,8 @@
       "2026-07-23": 21,
       "2026-08-07": 199,
       "2026-08-06": 1248,
-      "2026-08-25": 157
+      "2026-08-25": 157,
+      "2026-08-27": 5
     }
   },
   {
@@ -222,9 +225,9 @@
     "url": "https://gitlab.bellsoft.net",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.bellsoft.net.ico",
     "slug": "bell-soft-network-git-lab",
-    "status": "up",
-    "uptime": "94.72%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "94.73%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.85%",
     "uptimeYear": "91.13%",
@@ -288,7 +291,8 @@
       "2026-07-05": 38,
       "2026-07-23": 16,
       "2026-08-07": 136,
-      "2026-08-06": 1243
+      "2026-08-06": 1243,
+      "2026-08-27": 0
     }
   }
 ]
