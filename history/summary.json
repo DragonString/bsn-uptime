@@ -8,13 +8,13 @@
     "uptime": "99.25%",
     "uptimeDay": "97.88%",
     "uptimeWeek": "99.55%",
-    "uptimeMonth": "98.40%",
+    "uptimeMonth": "98.75%",
     "uptimeYear": "98.93%",
-    "time": 2646,
-    "timeDay": 3527,
-    "timeWeek": 2953,
-    "timeMonth": 2888,
-    "timeYear": 2755,
+    "time": 2647,
+    "timeDay": 3319,
+    "timeWeek": 2972,
+    "timeMonth": 2884,
+    "timeYear": 2756,
     "dailyMinutesDown": {
       "2025-11-04": 22,
       "2025-11-24": 20,
@@ -65,14 +65,14 @@
     "slug": "bell-game-network",
     "status": "up",
     "uptime": "94.50%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "98.53%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.90%",
     "uptimeYear": "91.01%",
     "time": 2668,
-    "timeDay": 2859,
-    "timeWeek": 2777,
-    "timeMonth": 2585,
+    "timeDay": 2386,
+    "timeWeek": 2765,
+    "timeMonth": 2580,
     "timeYear": 2735,
     "dailyMinutesDown": {
       "2025-11-04": 21,
@@ -135,8 +135,7 @@
       "2026-08-07": 199,
       "2026-08-06": 1253,
       "2026-08-25": 157,
-      "2026-08-27": 163,
-      "2026-09-06": 11
+      "2026-08-27": 163
     }
   },
   {
@@ -146,14 +145,14 @@
     "slug": "bell-s-tech-blog",
     "status": "up",
     "uptime": "95.18%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "98.55%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.91%",
     "uptimeYear": "91.02%",
-    "time": 2673,
-    "timeDay": 2754,
-    "timeWeek": 2864,
-    "timeMonth": 2440,
+    "time": 2676,
+    "timeDay": 2462,
+    "timeWeek": 2886,
+    "timeMonth": 2441,
     "timeYear": 2801,
     "dailyMinutesDown": {
       "2025-11-04": 21,
@@ -217,8 +216,7 @@
       "2026-08-07": 199,
       "2026-08-06": 1248,
       "2026-08-25": 157,
-      "2026-08-27": 158,
-      "2026-09-06": 6
+      "2026-08-27": 158
     }
   },
   {
@@ -228,15 +226,15 @@
     "slug": "bell-soft-network-git-lab",
     "status": "up",
     "uptime": "94.79%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.08%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.43%",
     "uptimeYear": "91.12%",
-    "time": 2034,
-    "timeDay": 2991,
-    "timeWeek": 1933,
-    "timeMonth": 1488,
-    "timeYear": 2075,
+    "time": 2033,
+    "timeDay": 1293,
+    "timeWeek": 1907,
+    "timeMonth": 1482,
+    "timeYear": 2074,
     "dailyMinutesDown": {
       "2025-11-04": 20,
       "2025-11-24": 19,
@@ -292,8 +290,7 @@
       "2026-07-23": 16,
       "2026-08-07": 136,
       "2026-08-06": 1243,
-      "2026-08-27": 153,
-      "2026-09-06": 1
+      "2026-08-27": 153
     }
   }
 ]
