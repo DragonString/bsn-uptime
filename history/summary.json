@@ -11,7 +11,7 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "98.86%",
     "time": 2768,
-    "timeDay": 3779,
+    "timeDay": 4388,
     "timeWeek": 3187,
     "timeMonth": 3421,
     "timeYear": 2890,
@@ -77,10 +77,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/game.bellsoft.net.ico",
     "slug": "bell-game-network",
     "status": "up",
-    "uptime": "94.91%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.86%",
+    "uptime": "94.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "90.98%",
     "time": 2761,
     "timeDay": 3014,
@@ -152,8 +152,7 @@
       "2026-09-28": 26,
       "2026-10-02": 20,
       "2026-10-22": 21,
-      "2026-10-30": 28,
-      "2026-11-07": 11
+      "2026-10-30": 28
     }
   },
   {
@@ -161,17 +160,17 @@
     "url": "https://tech.softbell.net",
     "icon": "https://icons.duckduckgo.com/ip3/tech.softbell.net.ico",
     "slug": "bell-s-tech-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "95.54%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "90.98%",
-    "time": 2859,
-    "timeDay": 4320,
-    "timeWeek": 3458,
-    "timeMonth": 3467,
-    "timeYear": 2975,
+    "time": 2856,
+    "timeDay": 3042,
+    "timeWeek": 3128,
+    "timeMonth": 3400,
+    "timeYear": 2969,
     "dailyMinutesDown": {
       "2025-11-24": 19,
       "2025-12-07": 126,
@@ -239,7 +238,7 @@
       "2026-10-02": 16,
       "2026-10-22": 36,
       "2026-10-30": 28,
-      "2026-11-07": 6
+      "2026-11-07": 0
     }
   },
   {
@@ -249,8 +248,8 @@
     "slug": "bell-soft-network-git-lab",
     "status": "up",
     "uptime": "95.19%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.10%",
     "time": 2059,
@@ -314,8 +313,7 @@
       "2026-08-06": 1243,
       "2026-08-27": 153,
       "2026-09-12": 79,
-      "2026-09-28": 17,
-      "2026-11-07": 1
+      "2026-09-28": 17
     }
   }
 ]
