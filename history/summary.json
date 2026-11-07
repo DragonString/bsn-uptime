@@ -160,17 +160,17 @@
     "url": "https://tech.softbell.net",
     "icon": "https://icons.duckduckgo.com/ip3/tech.softbell.net.ico",
     "slug": "bell-s-tech-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "95.54%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "90.98%",
-    "time": 2856,
-    "timeDay": 3042,
-    "timeWeek": 3128,
-    "timeMonth": 3400,
-    "timeYear": 2969,
+    "time": 2860,
+    "timeDay": 3362,
+    "timeWeek": 3247,
+    "timeMonth": 3421,
+    "timeYear": 2972,
     "dailyMinutesDown": {
       "2025-11-24": 19,
       "2025-12-07": 126,
@@ -238,7 +238,7 @@
       "2026-10-02": 16,
       "2026-10-22": 36,
       "2026-10-30": 28,
-      "2026-11-07": 0
+      "2026-11-07": 5
     }
   },
   {
