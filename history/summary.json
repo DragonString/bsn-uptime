@@ -77,17 +77,17 @@
     "url": "https://game.bellsoft.net",
     "icon": "https://icons.duckduckgo.com/ip3/game.bellsoft.net.ico",
     "slug": "bell-game-network",
-    "status": "down",
+    "status": "up",
     "uptime": "94.93%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "90.98%",
-    "time": 2798,
-    "timeDay": 4235,
-    "timeWeek": 3787,
-    "timeMonth": 3568,
-    "timeYear": 2904,
+    "time": 2803,
+    "timeDay": 4325,
+    "timeWeek": 3866,
+    "timeMonth": 3600,
+    "timeYear": 2909,
     "dailyMinutesDown": {
       "2025-11-24": 20,
       "2025-12-07": 134,
@@ -154,7 +154,7 @@
       "2026-10-02": 20,
       "2026-10-22": 21,
       "2026-10-30": 28,
-      "2026-11-09": 0
+      "2026-11-09": 8
     }
   },
   {
