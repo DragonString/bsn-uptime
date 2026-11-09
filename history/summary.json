@@ -4,17 +4,17 @@
     "url": "https://www.bellsoft.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.bellsoft.net.ico",
     "slug": "bell-soft-network",
-    "status": "down",
+    "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "98.85%",
-    "time": 2804,
-    "timeDay": 5068,
-    "timeWeek": 4228,
-    "timeMonth": 3650,
-    "timeYear": 2926,
+    "time": 2813,
+    "timeDay": 5422,
+    "timeWeek": 4458,
+    "timeMonth": 3733,
+    "timeYear": 2936,
     "dailyMinutesDown": {
       "2025-11-24": 20,
       "2025-12-02": 15,
@@ -70,7 +70,7 @@
       "2026-10-30": 44,
       "2026-11-07": 15,
       "2026-11-08": 15,
-      "2026-11-09": 0
+      "2026-11-09": 6
     }
   },
   {
