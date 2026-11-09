@@ -4,17 +4,17 @@
     "url": "https://www.bellsoft.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.bellsoft.net.ico",
     "slug": "bell-soft-network",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "98.94%",
+    "uptimeDay": "98.92%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "98.85%",
-    "time": 2807,
-    "timeDay": 5840,
-    "timeWeek": 4499,
-    "timeMonth": 3716,
-    "timeYear": 2931,
+    "time": 2804,
+    "timeDay": 5068,
+    "timeWeek": 4228,
+    "timeMonth": 3650,
+    "timeYear": 2926,
     "dailyMinutesDown": {
       "2025-11-24": 20,
       "2025-12-02": 15,
@@ -69,7 +69,8 @@
       "2026-10-15": 15,
       "2026-10-30": 44,
       "2026-11-07": 15,
-      "2026-11-08": 15
+      "2026-11-08": 15,
+      "2026-11-09": 0
     }
   },
   {
@@ -163,9 +164,9 @@
     "slug": "bell-s-tech-blog",
     "status": "up",
     "uptime": "95.55%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "90.98%",
     "time": 2879,
     "timeDay": 4162,
@@ -238,8 +239,7 @@
       "2026-09-28": 21,
       "2026-10-02": 16,
       "2026-10-22": 36,
-      "2026-10-30": 28,
-      "2026-11-09": 14
+      "2026-10-30": 28
     }
   },
   {
