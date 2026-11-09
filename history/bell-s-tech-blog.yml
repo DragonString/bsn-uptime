@@ -1,7 +1,7 @@
 url: https://tech.softbell.net
-status: up
-code: 200
-responseTime: 5421
-lastUpdated: 2026-11-09T14:42:35.192Z
+status: down
+code: 503
+responseTime: 587
+lastUpdated: 2026-11-09T17:18:59.128Z
 startTime: 2024-09-17T09:10:47.414Z
 generator: Upptime <https://github.com/upptime/upptime>
