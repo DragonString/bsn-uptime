@@ -79,9 +79,9 @@
     "slug": "bell-game-network",
     "status": "up",
     "uptime": "94.92%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "90.98%",
     "time": 2778,
     "timeDay": 3956,
@@ -153,8 +153,7 @@
       "2026-09-28": 26,
       "2026-10-02": 20,
       "2026-10-22": 21,
-      "2026-10-30": 28,
-      "2026-11-08": 5
+      "2026-10-30": 28
     }
   },
   {
