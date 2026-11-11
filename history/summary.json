@@ -81,9 +81,9 @@
     "slug": "bell-game-network",
     "status": "down",
     "uptime": "94.94%",
-    "uptimeDay": "98.51%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "90.97%",
     "time": 2898,
     "timeDay": 5709,
@@ -157,7 +157,7 @@
       "2026-10-22": 21,
       "2026-10-30": 28,
       "2026-11-09": 36,
-      "2026-11-11": 21
+      "2026-11-11": 27
     }
   },
   {
@@ -165,17 +165,17 @@
     "url": "https://tech.softbell.net",
     "icon": "https://icons.duckduckgo.com/ip3/tech.softbell.net.ico",
     "slug": "bell-s-tech-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "95.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "90.98%",
-    "time": 3003,
-    "timeDay": 6727,
-    "timeWeek": 5210,
-    "timeMonth": 4314,
-    "timeYear": 3120,
+    "time": 2999,
+    "timeDay": 6210,
+    "timeWeek": 5072,
+    "timeMonth": 4259,
+    "timeYear": 3115,
     "dailyMinutesDown": {
       "2025-11-24": 19,
       "2025-12-07": 126,
@@ -243,7 +243,8 @@
       "2026-10-02": 16,
       "2026-10-22": 36,
       "2026-10-30": 28,
-      "2026-11-09": 22
+      "2026-11-09": 22,
+      "2026-11-11": 0
     }
   },
   {
