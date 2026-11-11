@@ -4,17 +4,17 @@
     "url": "https://www.bellsoft.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.bellsoft.net.ico",
     "slug": "bell-soft-network",
-    "status": "down",
+    "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.68%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "98.85%",
-    "time": 2810,
-    "timeDay": 1526,
-    "timeWeek": 3922,
-    "timeMonth": 3620,
-    "timeYear": 2930,
+    "time": 2841,
+    "timeDay": 8274,
+    "timeWeek": 4814,
+    "timeMonth": 3950,
+    "timeYear": 2969,
     "dailyMinutesDown": {
       "2025-11-24": 20,
       "2025-12-02": 15,
@@ -71,7 +71,7 @@
       "2026-11-07": 15,
       "2026-11-08": 15,
       "2026-11-09": 36,
-      "2026-11-11": 1
+      "2026-11-11": 7
     }
   },
   {
@@ -79,17 +79,17 @@
     "url": "https://game.bellsoft.net",
     "icon": "https://icons.duckduckgo.com/ip3/game.bellsoft.net.ico",
     "slug": "bell-game-network",
-    "status": "down",
-    "uptime": "94.94%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.81%",
+    "status": "up",
+    "uptime": "94.93%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "90.97%",
-    "time": 2815,
-    "timeDay": 2808,
-    "timeWeek": 3673,
-    "timeMonth": 3591,
-    "timeYear": 2916,
+    "time": 2843,
+    "timeDay": 6026,
+    "timeWeek": 4335,
+    "timeMonth": 3870,
+    "timeYear": 2950,
     "dailyMinutesDown": {
       "2025-11-24": 20,
       "2025-12-07": 134,
@@ -157,7 +157,7 @@
       "2026-10-22": 21,
       "2026-10-30": 28,
       "2026-11-09": 36,
-      "2026-11-11": 1
+      "2026-11-11": 7
     }
   },
   {
@@ -167,9 +167,9 @@
     "slug": "bell-s-tech-blog",
     "status": "down",
     "uptime": "95.56%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "90.98%",
     "time": 2947,
     "timeDay": 5543,
@@ -244,7 +244,7 @@
       "2026-10-22": 36,
       "2026-10-30": 28,
       "2026-11-09": 22,
-      "2026-11-11": 0
+      "2026-11-11": 7
     }
   },
   {
