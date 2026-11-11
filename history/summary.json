@@ -6,9 +6,9 @@
     "slug": "bell-soft-network",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "98.85%",
     "time": 2841,
     "timeDay": 8274,
@@ -70,8 +70,7 @@
       "2026-10-30": 44,
       "2026-11-07": 15,
       "2026-11-08": 15,
-      "2026-11-09": 36,
-      "2026-11-11": 7
+      "2026-11-09": 36
     }
   },
   {
@@ -79,17 +78,17 @@
     "url": "https://game.bellsoft.net",
     "icon": "https://icons.duckduckgo.com/ip3/game.bellsoft.net.ico",
     "slug": "bell-game-network",
-    "status": "up",
-    "uptime": "94.93%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.79%",
+    "status": "down",
+    "uptime": "94.94%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "90.97%",
-    "time": 2843,
-    "timeDay": 6026,
-    "timeWeek": 4335,
-    "timeMonth": 3870,
-    "timeYear": 2950,
+    "time": 2839,
+    "timeDay": 5117,
+    "timeWeek": 4178,
+    "timeMonth": 3811,
+    "timeYear": 2945,
     "dailyMinutesDown": {
       "2025-11-24": 20,
       "2025-12-07": 134,
@@ -157,7 +156,7 @@
       "2026-10-22": 21,
       "2026-10-30": 28,
       "2026-11-09": 36,
-      "2026-11-11": 7
+      "2026-11-11": 0
     }
   },
   {
@@ -165,17 +164,17 @@
     "url": "https://tech.softbell.net",
     "icon": "https://icons.duckduckgo.com/ip3/tech.softbell.net.ico",
     "slug": "bell-s-tech-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "95.56%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "90.98%",
-    "time": 2947,
-    "timeDay": 5543,
-    "timeWeek": 4619,
-    "timeMonth": 3975,
-    "timeYear": 3059,
+    "time": 2964,
+    "timeDay": 6977,
+    "timeWeek": 4919,
+    "timeMonth": 4113,
+    "timeYear": 3079,
     "dailyMinutesDown": {
       "2025-11-24": 19,
       "2025-12-07": 126,
@@ -244,7 +243,7 @@
       "2026-10-22": 36,
       "2026-10-30": 28,
       "2026-11-09": 22,
-      "2026-11-11": 7
+      "2026-11-11": 13
     }
   },
   {
