@@ -4,17 +4,17 @@
     "url": "https://www.bellsoft.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.bellsoft.net.ico",
     "slug": "bell-soft-network",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.34%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.33%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "98.85%",
-    "time": 2813,
-    "timeDay": 2538,
-    "timeWeek": 4111,
-    "timeMonth": 3679,
-    "timeYear": 2935,
+    "time": 2810,
+    "timeDay": 1526,
+    "timeWeek": 3922,
+    "timeMonth": 3620,
+    "timeYear": 2930,
     "dailyMinutesDown": {
       "2025-11-24": 20,
       "2025-12-02": 15,
@@ -70,7 +70,8 @@
       "2026-10-30": 44,
       "2026-11-07": 15,
       "2026-11-08": 15,
-      "2026-11-09": 36
+      "2026-11-09": 36,
+      "2026-11-11": 1
     }
   },
   {
@@ -78,17 +79,17 @@
     "url": "https://game.bellsoft.net",
     "icon": "https://icons.duckduckgo.com/ip3/game.bellsoft.net.ico",
     "slug": "bell-game-network",
-    "status": "up",
-    "uptime": "94.93%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.80%",
+    "status": "down",
+    "uptime": "94.94%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "90.97%",
-    "time": 2818,
-    "timeDay": 3565,
-    "timeWeek": 3823,
-    "timeMonth": 3649,
-    "timeYear": 2921,
+    "time": 2815,
+    "timeDay": 2808,
+    "timeWeek": 3673,
+    "timeMonth": 3591,
+    "timeYear": 2916,
     "dailyMinutesDown": {
       "2025-11-24": 20,
       "2025-12-07": 134,
@@ -156,7 +157,7 @@
       "2026-10-22": 21,
       "2026-10-30": 28,
       "2026-11-09": 36,
-      "2026-11-11": 5
+      "2026-11-11": 1
     }
   },
   {
@@ -164,17 +165,17 @@
     "url": "https://tech.softbell.net",
     "icon": "https://icons.duckduckgo.com/ip3/tech.softbell.net.ico",
     "slug": "bell-s-tech-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "95.56%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "90.98%",
-    "time": 2950,
-    "timeDay": 7210,
-    "timeWeek": 4782,
-    "timeMonth": 4031,
-    "timeYear": 3064,
+    "time": 2947,
+    "timeDay": 5543,
+    "timeWeek": 4619,
+    "timeMonth": 3975,
+    "timeYear": 3059,
     "dailyMinutesDown": {
       "2025-11-24": 19,
       "2025-12-07": 126,
@@ -243,7 +244,7 @@
       "2026-10-22": 36,
       "2026-10-30": 28,
       "2026-11-09": 22,
-      "2026-11-11": 5
+      "2026-11-11": 0
     }
   },
   {
