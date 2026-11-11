@@ -6,9 +6,9 @@
     "slug": "bell-soft-network",
     "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.71%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "98.85%",
     "time": 2841,
     "timeDay": 4817,
@@ -71,7 +71,7 @@
       "2026-11-07": 15,
       "2026-11-08": 15,
       "2026-11-09": 36,
-      "2026-11-11": 1
+      "2026-11-11": 11
     }
   },
   {
@@ -81,9 +81,9 @@
     "slug": "bell-game-network",
     "status": "down",
     "uptime": "94.94%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "90.97%",
     "time": 2862,
     "timeDay": 5408,
@@ -157,7 +157,7 @@
       "2026-10-22": 21,
       "2026-10-30": 28,
       "2026-11-09": 36,
-      "2026-11-11": 1
+      "2026-11-11": 10
     }
   },
   {
@@ -165,17 +165,17 @@
     "url": "https://tech.softbell.net",
     "icon": "https://icons.duckduckgo.com/ip3/tech.softbell.net.ico",
     "slug": "bell-s-tech-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "95.56%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "90.98%",
-    "time": 2975,
-    "timeDay": 6191,
-    "timeWeek": 4915,
-    "timeMonth": 4137,
-    "timeYear": 3090,
+    "time": 3000,
+    "timeDay": 7396,
+    "timeWeek": 5306,
+    "timeMonth": 4332,
+    "timeYear": 3118,
     "dailyMinutesDown": {
       "2025-11-24": 19,
       "2025-12-07": 126,
@@ -244,7 +244,7 @@
       "2026-10-22": 36,
       "2026-10-30": 28,
       "2026-11-09": 22,
-      "2026-11-11": 0
+      "2026-11-11": 10
     }
   },
   {
