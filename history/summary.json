@@ -81,15 +81,15 @@
     "slug": "bell-game-network",
     "status": "down",
     "uptime": "94.94%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "90.97%",
-    "time": 2894,
-    "timeDay": 6050,
-    "timeWeek": 4821,
-    "timeMonth": 4206,
-    "timeYear": 3007,
+    "time": 2898,
+    "timeDay": 5709,
+    "timeWeek": 4733,
+    "timeMonth": 4179,
+    "timeYear": 3008,
     "dailyMinutesDown": {
       "2025-11-24": 20,
       "2025-12-07": 134,
@@ -157,7 +157,7 @@
       "2026-10-22": 21,
       "2026-10-30": 28,
       "2026-11-09": 36,
-      "2026-11-11": 15
+      "2026-11-11": 21
     }
   },
   {
