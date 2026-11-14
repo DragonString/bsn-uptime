@@ -1,7 +1,7 @@
 url: https://game.bellsoft.net
-status: up
-code: 200
-responseTime: 6139
-lastUpdated: 2026-11-13T23:27:40.270Z
+status: down
+code: 503
+responseTime: 600
+lastUpdated: 2026-11-14T11:58:55.081Z
 startTime: 2024-09-17T09:10:45.236Z
 generator: Upptime <https://github.com/upptime/upptime>
