@@ -4,15 +4,15 @@
     "url": "https://www.bellsoft.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.bellsoft.net.ico",
     "slug": "bell-soft-network",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "96.00%",
-    "uptimeWeek": "98.92%",
-    "uptimeMonth": "99.58%",
+    "uptimeDay": "95.70%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "99.57%",
     "uptimeYear": "98.83%",
-    "time": 2881,
+    "time": 2882,
     "timeDay": 3496,
-    "timeWeek": 4363,
+    "timeWeek": 4382,
     "timeMonth": 4016,
     "timeYear": 3006,
     "dailyMinutesDown": {
@@ -72,7 +72,8 @@
       "2026-11-08": 15,
       "2026-11-09": 36,
       "2026-11-11": 15,
-      "2026-11-15": 58
+      "2026-11-15": 58,
+      "2026-11-16": 4
     }
   },
   {
@@ -88,7 +89,7 @@
     "uptimeYear": "90.85%",
     "time": 2932,
     "timeDay": 3793,
-    "timeWeek": 4662,
+    "timeWeek": 4548,
     "timeMonth": 4199,
     "timeYear": 3046,
     "dailyMinutesDown": {
@@ -177,7 +178,7 @@
     "uptimeYear": "90.97%",
     "time": 3032,
     "timeDay": 3713,
-    "timeWeek": 5402,
+    "timeWeek": 5476,
     "timeMonth": 4391,
     "timeYear": 3154,
     "dailyMinutesDown": {
@@ -256,17 +257,17 @@
     "url": "https://gitlab.bellsoft.net",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.bellsoft.net.ico",
     "slug": "bell-soft-network-git-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "95.24%",
-    "uptimeDay": "97.34%",
+    "uptimeDay": "97.32%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "91.10%",
-    "time": 2060,
-    "timeDay": 2890,
-    "timeWeek": 1906,
-    "timeMonth": 1717,
-    "timeYear": 2120,
+    "time": 2057,
+    "timeDay": 2099,
+    "timeWeek": 1751,
+    "timeMonth": 1683,
+    "timeYear": 2116,
     "dailyMinutesDown": {
       "2025-11-24": 19,
       "2025-12-07": 116,
@@ -324,7 +325,8 @@
       "2026-08-27": 153,
       "2026-09-12": 79,
       "2026-09-28": 17,
-      "2026-11-15": 38
+      "2026-11-15": 38,
+      "2026-11-16": 0
     }
   }
 ]
